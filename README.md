@@ -1,4 +1,4 @@
-# Intercomparacion-de-tecnicas-de-downscaling-estadistico
+# Intercomparación de técnicas de downscaling estadístico
 En este repositorio se encontrara el código relativo al TFM de Jose Miguel Fraile con titulo "Intercomparación de las técnicas me Machine learning para la generación de predicciones locales de cambio climático: Posibles impactos en el desarrollo humano sostenible". 
 
 
